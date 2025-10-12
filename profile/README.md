@@ -12,8 +12,7 @@
   <br>
   <h2>Repositories</h2>
   <p><a href="https://github.com/HackIllinois/adonix">Adonix</a>: Our Core API</p>
-  <p><a href="https://github.com/HackIllinois/iOS">iOS</a>: Our Native iOS App</p>
-  <p><a href="https://github.com/HackIllinois/android">Android</a>: Our Native Android App</p>
+  <p><a href="https://github.com/HackIllinois/mobile">Mobile</a>: Our React Native Mobile App</p>
   <p><a href="https://github.com/HackIllinois/site">Site</a>: Our Event Website</p>
   <p><a href="https://github.com/HackIllinois/info-site">Info Site</a>: Our Info Site</p>
   
