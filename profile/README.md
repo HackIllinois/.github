@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="http://info.hackillinois.org/" target="blank"><img src="https://avatars.githubusercontent.com/u/5751098?v=4" width="100" alt="HackIllinois" /></a>
+  <a href="http://info.hackillinois.org/" target="blank"><img src="https://avatars.githubusercontent.com/u/5751098?v=4" width="200" alt="HackIllinois" /></a>
   <h1 align="center">
      HackIllinois
   </h1>
